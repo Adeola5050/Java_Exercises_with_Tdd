@@ -10,6 +10,6 @@ public class SumUsingEnhancedForLoop {
         for (int number: numbers){
             sum +=number;
         }
-        System.out.println("Sum = " +sum);
+        System.out.println("Sum  = " +sum);
     }
 }
