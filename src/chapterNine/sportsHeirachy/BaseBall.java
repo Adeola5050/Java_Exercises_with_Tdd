@@ -1,4 +1,4 @@
 package chapterNine.sportsHeirachy;
 
-public class BaseBall extends OutdoorSport {
+public  class BaseBall extends OutdoorSport {
 }
