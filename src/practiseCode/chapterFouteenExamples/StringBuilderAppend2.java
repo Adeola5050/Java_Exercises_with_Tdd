@@ -7,7 +7,7 @@ public class StringBuilderAppend2 {
         String s2= "Mighty";
         int c= 568;
 
-        String s= new StringBuilder()
+        String buffer= new StringBuilder()
                 .append("Baffle")
                 .append("Mighty")
                 .append(568).toString();
@@ -16,6 +16,6 @@ public class StringBuilderAppend2 {
         System.out.println(c);
 
 
-        System.out.printf("The word concatenated is = %s%n%n", s);
+        System.out.printf("The word concatenated is = %s%n%n", buffer);
     }
 }
