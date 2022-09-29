@@ -2,7 +2,7 @@ package chapterFourteen;
 
 public class WordsReversed {
     public static void main(String[] args) {
-        String words= "The major of the barracks is handsome";
+        String words= "Hallow be thy name";
         System.out.printf("The original words is %s%n",words);
         String [] tokens=words.split(" ");
 
